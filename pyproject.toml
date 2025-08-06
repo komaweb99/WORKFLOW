@@ -218,7 +218,6 @@ clickhouse-connect = [
 
 nv-ingest = [
     "nv-ingest-api==2025.4.22.dev20250422",
-    "nv-ingest-client==2025.4.22.dev20250422",
 ]
 
 postgresql = [
